@@ -1,0 +1,51 @@
+/* Navbar.css */
+
+.custom-navbar {
+    background-color: #6f6868; /* Set the background color of the navbar */
+  }
+  
+  .custom-navbar .navbar-brand {
+    color: #fff; /* Set the color of the navbar brand (logo) */
+  }
+  
+  .custom-navbar .nav-link {
+    color: #d00a0a; /* Set the color of the nav links */
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #ca0808; /* Set the hover color of the nav links */
+  }
+  
+  .custom-btn {
+    background-color: #ff5e5e; /* Set the background color of the buttons */
+    border-color: #ff5e5e; /* Set the border color of the buttons */
+    color: #fff; /* Set the text color of the buttons */
+  }
+  
+  .custom-btn:hover {
+    background-color: #cd6a6a; /* Set the hover background color of the buttons */
+    border-color: #cd6a6a; /* Set the hover border color of the buttons */
+  }
+  .custom-navbar .navbar-nav .nav-link {
+    color: #ff5e5e;
+  }
+  
+  .custom-navbar .navbar-nav .nav-link:hover,
+  .custom-navbar .navbar-nav .nav-link:focus {
+    color: #ff5e5e;
+  }
+  
+  .custom-navbar .btn.custom-btn {
+    background-color: #ff5e5e;
+    border-color: #ff5e5e;
+    color: white;
+  }
+  
+  .custom-navbar .btn.custom-btn:hover,
+  .custom-navbar .btn.custom-btn:focus {
+    background-color: #ff5e5e;
+    border-color: #ff5e5e;
+    color: white;
+  }
+  
+  
